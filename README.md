@@ -9,4 +9,4 @@ Red Pandas
 > *   Red
 *   Green
 *   Blue
-![Alt text]([/path/to/img.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FRed_panda&psig=AOvVaw2OGBGkTszxCPBfHHWycNxC&ust=1664554695305000&source=images&cd=vfe&ved=0CAgQjRxqFwoTCMjwqsyzuvoCFQAAAAAdAAAAABAE) "Red Panda!")
+![Alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Red_Panda_%2824986761703%29.jpg/1200px-Red_Panda_%2824986761703%29.jpg "Red Panda!")
