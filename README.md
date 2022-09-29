@@ -1,7 +1,6 @@
-# Website
-This is an H1
+Red Pandas
 =============
-This is an H2
+What are red pandas?
 -------------
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
 > consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
