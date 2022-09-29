@@ -1,2 +1,1 @@
-gem "minima"
-$ bundle
+theme: minima
