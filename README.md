@@ -10,9 +10,9 @@
 
 Instagram Ceramics Artists I Feel Inspired by:
 ---------------------------------------------------
-This is  [mao ceramics](https://www.instagram.com/maoprojects/ "Mao Projects Ceramics") 
+This is  [@maoprojects.](https://www.instagram.com/maoprojects/ "Mao Projects Ceramics") 
 
-This is  [duckies mini mart](https://www.instagram.com/duckiesminimart/ "Duckies Mini Mart") 
+This is  [@duckiesminimart.](https://www.instagram.com/duckiesminimart/ "Duckies Mini Mart") 
 
 
 Ceramics I Made By Sculpting Clay
@@ -100,15 +100,4 @@ Strawberry Frog Tray
 ![Alt text](https://user-images.githubusercontent.com/87721216/193787374-8b961abd-e72a-4b3d-8bab-c8bb56dd2f5b.jpg)
 
 
-
-
-> This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
-> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
-> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
-> 
-> Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
-> id sem consectetuer libero luctus adipiscing.
-> *   Red
-*   Green
-*   Blue
-
+> That is all; thank you for visiting this website and goodbye!
