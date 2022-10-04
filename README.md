@@ -3,15 +3,21 @@ Ceramics I Made By Sculpting Clay
 
 Elephant Teapot
 -------------
-![Alt text](file:///Users/sji/Downloads/3D1A8DC0-1644-498E-8FA7-38849AA1C541.JPG)
+![Alt text](https://user-images.githubusercontent.com/87721216/193785477-4c1e0069-f6ab-4511-b4aa-1b5e239f1b06.JPG)
+
 
 
 Flower Cup
 -------------
-![Alt text](3D1A8DC0-1644-498E-8FA7-38849AA1C541.JPG)
+![Alt text]![552A18FB-60FE-41C9-80E1-236AE5EF34B1](https://user-images.githubusercontent.com/87721216/193785609-0aa0ec03-49c6-4ab0-b853-733782d8567f.JPG)
+()
+
+
 
 Heart Coil Pot
 -------------
+![Alt text](file:///Users/sji/Downloads/EEB022DA-6E28-46E7-A26F-6BB02F4A9FE3.JPG)
+
 
 Ceramics I Made by Throwing Clay on Wheel
 ============================================
