@@ -3,11 +3,12 @@ Ceramics I Made By Sculpting Clay
 
 Elephant Teapot
 -------------
-![Alt text](3D1A8DC0-1644-498E-8FA7-38849AA1C541.JPG)
+![Alt text](file:///Users/sji/Downloads/3D1A8DC0-1644-498E-8FA7-38849AA1C541.JPG)
 
 
 Flower Cup
 -------------
+![Alt text](3D1A8DC0-1644-498E-8FA7-38849AA1C541.JPG)
 
 Heart Coil Pot
 -------------
