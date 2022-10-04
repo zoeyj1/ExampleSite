@@ -1,15 +1,19 @@
-My Favorite Ceramic Objects
-=============
+Ceramics I Made By Sculpting Clay
+================================================
+
 Elephant Teapot
 -------------
-![Alt text](https://imgur.com/hzva5wY)
+![Alt text](3D1A8DC0-1644-498E-8FA7-38849AA1C541.JPG)
+
+
 Flower Cup
 -------------
+
 Heart Coil Pot
 -------------
 
-Other Ceramic Objects
-=============
+Ceramics I Made by Throwing Clay on Wheel
+============================================
 
 
 > This is a blockquote with two paragraphs. Lorem ipsum dolor sit amet,
