@@ -1,8 +1,8 @@
-> Here are the ceramic objects I created at my time of the Whitney 
+> Hello! Here are the ceramic objects I created at my time of the Whitney 
 > Ceramics Camp that occurred the summer of 2022. I had a lot of fun
 > creating these ceramic objects and was able to sell/gift a few
-> of the things I made to my friends! The process of creating  
-> ceramics involves sculpting clay into whatever shape you want, 
+> of the things I made to my friends! The process of creating ceramics 
+> involves sculpting clay into whatever shape you want, 
 > firing it, painting it with glaze, and firing it once again.
 > I also created two things by throwing clay on a pottery wheel, 
 > which was really fun to do.
@@ -100,4 +100,4 @@ Strawberry Frog Tray
 ![Alt text](https://user-images.githubusercontent.com/87721216/193787374-8b961abd-e72a-4b3d-8bab-c8bb56dd2f5b.jpg)
 
 
-> That is all; thank you for visiting this website and goodbye!
+> That is all; thank you for visiting this website and goodbye! - Zoey J.
